@@ -1,16 +1,13 @@
-### Hi there 👋
+# Felipe Martins :man_technologist:
 
-<!--
-**felipemjesuss/felipemjesuss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemjesuss/)](https://www.linkedin.com/in/felipemjesuss/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipemjesus@gmail.com)](mailto:felipemjesus@gmail.com)
 
-Here are some ideas to get you started:
+### Analista Desenvolvedor com os seguintes conhecimentos e experiências:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Administração de Sistemas: Linux,Windows
+- Gestão de Projetos e Equipes: Analise de Negócio, Analise de Requisitos, Kaban, Scrum
+- Ferramentas de desenvolvimento web: Controle de Versão: Git, Virtualização: Docker e VirtualBox
+- Tecnologias Back-end: Linguagens de programação: PHP (Frameworks: CakePHP, Laravel e Zend Framework 1); Bancos de Dados: Oracle, PostgreSQL e MySQL; Padrões de Projetos (Design Patterns); Servidor web: Apache; Ferramentas para prover servidores web: cPanel/WHM e CentOS Web Panel
+- Tecnologias Front-end: HTML/HTML5, CSS/CSS3, JavaScript: jQuery, Vue.js; Particularidades e compatibilidade entre navegadores: Design responsivo, AJAX e JSON; Otimização para Buscas (SEO)
+- Tecnologias Clouds: Digital Ocean; OVH
