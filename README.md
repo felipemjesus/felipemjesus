@@ -1,6 +1,4 @@
-# Felipe Martins :man_technologist:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemjesuss/)](https://www.linkedin.com/in/felipemjesuss/)
+# Felipe Martins :man_technologist: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemjesuss/)](https://www.linkedin.com/in/felipemjesuss/)
 
 ### Analista Desenvolvedor com os seguintes conhecimentos e experiências:
 
