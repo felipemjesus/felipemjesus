@@ -11,5 +11,5 @@ Sou um FullStack Developer :computer:
 | 
 [![Gmail Badge](https://img.shields.io/badge/-felipemjesus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipemjesus@gmail.com)](mailto:felipemjesus@gmail.com)
 
-<img width="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemjesuss&hide=html&layout=compact" />
-<img width="300px" align="left" src="https://github-readme-stats.vercel.app/api?username=felipemjesuss&theme=default" />
+<img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemjesuss&hide=html&layout=compact" />
+<img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=felipemjesuss&theme=default" />
