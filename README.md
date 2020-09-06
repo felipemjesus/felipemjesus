@@ -1,6 +1,6 @@
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+Sou um FullStack Developer :computer: e apaixonado por resolver problemas utilizando a programação.
+
 
  :rocket:  &nbsp; Estou trabalhando na **Presidência da Republica**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Back-end usando PHP
