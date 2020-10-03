@@ -2,13 +2,13 @@
 Sou um FullStack Developer :computer: e venho resolvendo problemas utilizando a programação deste de 2012.
 
 
-:rocket:  &nbsp; Estou trabalhando na **Presidência da Republica**
+:rocket:  &nbsp; Atualmente estou trabalhando na **TO Brasil** no contrato dos **Correios**
 <br/>:purple_heart: &nbsp; Buscando colaborar com projetos em Back-end usando PHP
 <br/>:blush: &nbsp; Posso te ajudar com PHP, Laravel, CakePHP, Zend Framework 1
 <br/>:computer: &nbsp; Minha stack: PHP, Laravel, VueJS, Oracle, Zend Framework, HTML, CSS, JavaScript, jQuery
 <br/>💬  &nbsp; Sobre mim: Curto tecnologias, games Need for Speed, Pro Evolution Soccer e seriados na Netflix, Prime Vídeo
-<br/>:email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-felipemjesuss-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemjesuss/)](https://www.linkedin.com/in/felipemjesuss/) | [![Gmail Badge](https://img.shields.io/badge/-felipemjesus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipemjesus@gmail.com)](mailto:felipemjesus@gmail.com)
-<br/>:chart: Estatisticas sobre os meus repositórios [![Sourcerer Badge](https://img.shields.io/badge/-Sourcerer-blue?style=flat-square&logo=Sourcerer&logoColor=white&link=https://sourcerer.io/felipemjesuss/)](https://sourcerer.io/felipemjesuss/)
+<br/>:email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-felipemjesus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemjesus/)](https://www.linkedin.com/in/felipemjesus/) | [![Gmail Badge](https://img.shields.io/badge/-felipemjesus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipemjesus@gmail.com)](mailto:felipemjesus@gmail.com)
+<br/>:chart: Estatisticas sobre os meus repositórios [![Sourcerer Badge](https://img.shields.io/badge/-Sourcerer-blue?style=flat-square&logo=Sourcerer&logoColor=white&link=https://sourcerer.io/felipemjesus/)](https://sourcerer.io/felipemjesus/)
 
 **Linguagens e Ferramentas:** 
 
@@ -40,5 +40,5 @@ Sou um FullStack Developer :computer: e venho resolvendo problemas utilizando a 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" title="React Native"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" title="Go"></code>
 
-<img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemjesuss&hide=html&layout=compact" />
-<img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=felipemjesuss&theme=default" />
+<img width="390px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemjesus&hide=html&layout=compact" />
+<img width="420px" align="left" src="https://github-readme-stats.vercel.app/api?username=felipemjesus&theme=default" />
