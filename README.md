@@ -1,8 +1,10 @@
-## Olá pessoal 👋
+## Olá 👋
 Sou um FullStack Developer :computer: e venho resolvendo problemas utilizando a programação deste de 2012.
 
+![](https://komarev.com/ghpvc/?username=felipemjesus&style=flat-square)
 
-:rocket:  &nbsp; Atualmente estou trabalhando na **TO Brasil** no contrato dos **Correios**
+
+:rocket:  &nbsp; Atualmente estou trabalhando na **TO Brasil** alocado no **Correios**
 <br/>:purple_heart: &nbsp; Buscando colaborar com projetos em Back-end usando PHP
 <br/>:blush: &nbsp; Posso te ajudar com PHP, Laravel, CakePHP, Zend Framework 1
 <br/>:computer: &nbsp; Minha stack: PHP, Laravel, VueJS, Oracle, Zend Framework, HTML, CSS, JavaScript, jQuery
