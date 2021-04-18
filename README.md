@@ -48,5 +48,5 @@ Sou um FullStack Developer :computer: e venho resolvendo problemas utilizando a 
 
 ### GitHub Stats
 
-<img width="390" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemjesus&hide=html&layout=compact" />
+<img width="350" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemjesus&hide=html&layout=compact" />
 <img width="420" align="left" src="https://github-readme-stats.vercel.app/api?username=felipemjesus&theme=default" />
