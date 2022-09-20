@@ -1,5 +1,5 @@
 ## Olá 👋
-Sou um FullStack Developer :computer: e venho resolvendo problemas utilizando a programação deste de 2012. ![](https://komarev.com/ghpvc/?username=felipemjesus&style=flat-square)
+Sou um FullStack Developer :computer: e venho resolvendo problemas utilizando a programação deste de 2012.
 
 ---
 
