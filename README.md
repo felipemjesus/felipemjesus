@@ -3,7 +3,7 @@ Sou um FullStack Developer :computer: e venho resolvendo problemas utilizando a 
 
 ---
 
-:rocket:  &nbsp; Atualmente estou trabalhando na **Basis** alocado no **Ministério das Comunicações (MCOM)**
+:rocket:  &nbsp; Atualmente estou trabalhando na **Basis** alocado no **Presidência da República (PR)**
 <br/>:purple_heart: &nbsp; Buscando colaborar com projetos em Back-end usando PHP
 <br/>:blush: &nbsp; Posso te ajudar com PHP, Laravel, CakePHP, Zend Framework 1
 <br/>:computer: &nbsp; Minha stack: PHP, Laravel, VueJS, Oracle, Zend Framework, HTML, CSS, JavaScript, jQuery
