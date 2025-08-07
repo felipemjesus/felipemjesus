@@ -9,7 +9,6 @@ Sou um FullStack Developer :computer: e venho resolvendo problemas utilizando a 
 <br/>:computer: &nbsp; Minha stack: PHP, Laravel, CakePHP, Zend Framework, HTML, CSS, JavaScript, jQuery, Vuejs, React, Oracle, PostgreSQL, MySQL
 <br/>💬  &nbsp; Sobre mim: Curto tecnologias, games Need for Speed, Pro Evolution Soccer e seriados na Netflix, Prime Vídeo
 <br/>:email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-felipemjesus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemjesus/)](https://www.linkedin.com/in/felipemjesus/) | [![Gmail Badge](https://img.shields.io/badge/-felipemjesus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipemjesus@gmail.com)](mailto:felipemjesus@gmail.com)
-<br/>:chart: Estatisticas sobre os meus repositórios [![Sourcerer Badge](https://img.shields.io/badge/-Sourcerer-blue?style=flat-square&logo=Sourcerer&logoColor=white&link=https://sourcerer.io/felipemjesus/)](https://sourcerer.io/felipemjesus/)
 
 ---
 
