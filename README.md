@@ -4,9 +4,9 @@ Sou um FullStack Developer :computer: e venho resolvendo problemas utilizando a 
 ---
 
 :rocket:  &nbsp; Atualmente estou trabalhando na **Basis** alocado no **Presidência da República (PR)**
-<br/>:purple_heart: &nbsp; Buscando colaborar com projetos em Back-end usando PHP
-<br/>:blush: &nbsp; Posso te ajudar com PHP, Laravel, CakePHP, Zend Framework 1
-<br/>:computer: &nbsp; Minha stack: PHP, Laravel, VueJS, Oracle, Zend Framework, HTML, CSS, JavaScript, jQuery
+<br/>:purple_heart: &nbsp; Buscando colaborar em projetos de desenvolvimento Back-end e Front-end.
+<br/>:blush: &nbsp; Posso te ajudar com PHP (Laravel, CakePHP, Zend Framework 1J) e JavaScript (Node, Express, Nest)
+<br/>:computer: &nbsp; Minha stack: PHP, Laravel, CakePHP, Zend Framework, HTML, CSS, JavaScript, jQuery, Vuejs, React, Oracle, PostgreSQL, MySQL
 <br/>💬  &nbsp; Sobre mim: Curto tecnologias, games Need for Speed, Pro Evolution Soccer e seriados na Netflix, Prime Vídeo
 <br/>:email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-felipemjesus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemjesus/)](https://www.linkedin.com/in/felipemjesus/) | [![Gmail Badge](https://img.shields.io/badge/-felipemjesus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipemjesus@gmail.com)](mailto:felipemjesus@gmail.com)
 <br/>:chart: Estatisticas sobre os meus repositórios [![Sourcerer Badge](https://img.shields.io/badge/-Sourcerer-blue?style=flat-square&logo=Sourcerer&logoColor=white&link=https://sourcerer.io/felipemjesus/)](https://sourcerer.io/felipemjesus/)
