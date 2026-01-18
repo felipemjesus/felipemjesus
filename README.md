@@ -1,51 +1,47 @@
-## Olá 👋
-Sou um FullStack Developer :computer: e venho resolvendo problemas utilizando a programação deste de 2012.
+# Oi 👋, sou o Felipe Martins
 
----
+Engenheiro de Software Full Stack com mais de 13 anos de experiência na concepção, arquitetura e automação de sistemas escaláveis para ambientes corporativos e governamentais. 
 
-:rocket:  &nbsp; Atualmente estou trabalhando na **Basis** alocado no **Presidência da República (PR)**
-<br/>:purple_heart: &nbsp; Buscando colaborar em projetos de desenvolvimento Back-end e Front-end.
-<br/>:blush: &nbsp; Posso te ajudar com PHP (Laravel, CakePHP, Zend Framework 1J) e JavaScript (Node, Express, Nest)
-<br/>:computer: &nbsp; Minha stack: PHP, Laravel, CakePHP, Zend Framework, HTML, CSS, JavaScript, jQuery, Vuejs, React, Oracle, PostgreSQL, MySQL
-<br/>💬  &nbsp; Sobre mim: Curto tecnologias, games Need for Speed, Pro Evolution Soccer e seriados na Netflix, Prime Vídeo
-<br/>:email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-felipemjesus-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemjesus/)](https://www.linkedin.com/in/felipemjesus/) | [![Gmail Badge](https://img.shields.io/badge/-felipemjesus@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipemjesus@gmail.com)](mailto:felipemjesus@gmail.com)
+Especialista nas stacks PHP (Laravel, Symfony, CakePHP), Node.js (TypeScript, NestJS, Express, Fastify) e Front-end (Vue.js, React), com histórico comprovado na modenização de sistemas legados e construção de APIs de alta disponibilidade. 
 
----
+Focado em excelência técnica, aplico princípios de Clean Architecture, SOLID e testes automatizados com PHPUnit e Vitest para garantir a saúde do software a longo prazo. Experiência em liderança técnica e gestão de todo o ciclo de vida de desenvolvimento (SDLC).
 
-### Linguagens e Ferramentas:
+## 🛠️ Habilidades e Competências
 
-<img height="25" align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png" title="PHP">
-<img height="25" align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/laravel/laravel.png" title="Laravel">
-<img height="25" align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/mysql/mysql.png" title="MySQL">
-<img height="25" align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png" title="Postgres">
-<img height="25" align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" title="Javascript">
-<img height="25" align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/jquery/jquery.png" title="jQuery">
-<img height="25" align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png" title="VueJS">
-<img height="25" align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/json/json.png" title="JSON">
-<img height="25" align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" title="HTML5">
-<img height="25" align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" title="CSS3">
-<img height="25" align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/bootstrap/bootstrap.png" title="Bootstrap">
-<img height="25" align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" title="Git">
-<img height="25" align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" title="Terminal">
-<img height="25" align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" title="Docker">
-<img height="25" align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/jenkins/jenkins.png" title="Jenkins">
-<img height="25" align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" title="Visual Studio Code">
-<img height="25" align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/linux/linux.png" title="Linux">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/windows/windows.png" title="Windows">
+Durante minha trajetória profissional, venho adquirindo diversas habilidades técnicas e capacidades analíticas, em diferentes áreas do desenvolvimento de sistemas:
 
----
+- Back-end
+  - PHP, Laravel, Symfony, CakePHP, Zend Framework, PHPUnit, Pest
+  - Node.js, TypeScript, Nest.js, Express, Fastify, Vitest, Jest
 
-### Estudando:
+- Front-end
+  - HTML, CSS, JavaScript, TypeScript, Shadcn UI, Tailwind CSS
+  - Vue.js, Vue Router, VeeValidate, PrimeVue, Composition API, Option API
+  - React, React Router, React Hook From, Tan Stack Query, Redux, Zod
 
-<img height="25" align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" title="NodeJS">
-<img height="25" align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" title="Typescript">
-<img height="25" align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" title="React">
-<img height="25" align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/react-native/react-native.png" title="React Native">
-<img height="25" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png" title="Go">
+- Banco de Dados
+  - Oracle, PostgreSQL, MySQL, SQL Server, SQL, PL/SQL
 
----
+- DevOps
+  - Git, Docker, CI/CD, GitHub Actions, GitLab CI/CD
 
-### GitHub Stats
+- Arquitetura
+  - Programação Orientada a Objetos, SOLID, DDD, Design Patterns, Clean Architecture, Clean Code
+  - Metodologias Ágeis, Scrum, Kanban
+
+# 📫 Como me contatar
+
+Sempre estou aberto a novas oportunidades e conexões. Se você gostaria de entrar em contato, sinta-se à vontade para me alcançar através de qualquer um dos seguintes canais:
+
+[![Gmail Badge](https://img.shields.io/badge/-GMAIL-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipemjesus@gmail.com)](mailto:felipemjesus@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipemjesus/)](https://www.linkedin.com/in/felipemjesus/)
+
+## 📊 Estatísticas do GitHub
+
+Será que mais alguém é viciado em estatísticas do GitHub? Eu adoro ver as estatísticas de outros desenvolvedores, então pensei em compartilhar as minhas também.
 
 <img width="350" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemjesus&hide=html&layout=compact" />
-<img width="420" align="left" src="https://github-readme-stats.vercel.app/api?username=felipemjesus&theme=default" />
+
+<img width="420" src="https://github-readme-stats.vercel.app/api?username=felipemjesus&theme=default" />
+
+## 🙏 Obrigado por passar por aqui!
